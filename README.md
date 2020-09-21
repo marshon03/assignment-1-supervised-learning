@@ -1,5 +1,7 @@
 # assignment-1-supervised-learning
 
+## Instructions for running code and Dataset locations
+
 Dataset 1: https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 Dataset 2: https://www.kaggle.com/datasnaek/chess
