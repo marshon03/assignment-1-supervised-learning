@@ -9,3 +9,7 @@ After downloading datasets look in each file and add data path location to each 
 data = pd.read_csv('Add IMDB data location here')
 
 game_data = pd.read_csv('Add chess games data location here')
+
+
+
+There are two functions(movie_data, chess_game_data) that will need to be commented out and uncommented out when you want to execute model training for each dataset.
