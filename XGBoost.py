@@ -19,8 +19,8 @@ import matplotlib.pyplot as plt
 import re
 import string
 
-data = pd.read_csv('/Users/marshongreen/Documents/GATech ML(7641)/Datasets/IMDB Dataset.csv')
-game_data = pd.read_csv('/Users/marshongreen/Documents/GATech ML(7641)/Datasets/games.csv')
+data = pd.read_csv('Add IMDB data location here')
+game_data = pd.read_csv('Add chess games data location here')
 columnTransformer = ColumnTransformer([('encoder', OneHotEncoder(), [2, 5, 6, 7])], remainder='passthrough')
 
 
